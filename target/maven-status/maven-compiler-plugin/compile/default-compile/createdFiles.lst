@@ -1,0 +1,8 @@
+com\lms\entity\User.class
+com\lms\util\UserMenu.class
+com\lms\dao\UserDao.class
+com\lms\Main.class
+com\lms\dao\BookDao.class
+com\lms\util\BookMenu.class
+com\lms\util\HibernateUtil.class
+com\lms\entity\Book.class
